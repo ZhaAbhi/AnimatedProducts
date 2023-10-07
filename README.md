@@ -1,3 +1,6 @@
+[Simulator Screen Recording - iPhone 15 Pro - 2023-10-07 at 13.50.09.webm](https://github.com/ZhaAbhi/AnimatedProducts/assets/133755310/f8421aae-b422-42fa-954a-be3581699aaa)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
